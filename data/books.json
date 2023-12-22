@@ -1,0 +1,18 @@
+[
+   {
+    "_id":1,
+    "book_name":"Cloud atlas",
+    "language":"English",
+    "price":1499,
+    "stock":10
+   },
+   {
+      "_id":2,
+      "book_name":"Red",
+      "language":"English",
+      "price":1099,
+      "stock":12
+   }
+]
+
+
